@@ -1,4 +1,4 @@
-package org.example;
+import org.example.Calculator;
 import org.junit.Test;
 
 import static junit.framework.TestCase.assertEquals;
